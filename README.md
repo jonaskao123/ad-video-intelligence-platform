@@ -1,4 +1,4 @@
-# AD_VIDEO_INTELLIGENCE_PLATFORM
+# ad-video-intelligence-platform demo
 ![Demo](https://github.com/user-attachments/assets/6f1eeeb7-25e7-4898-a834-9c8fca1aae6f)
 
 # Features
@@ -9,6 +9,10 @@
 - **Find visually similar ad videos**
 
   ![未命名的影片_ 使用 Clipchamp 製作 (5) (1)](https://github.com/user-attachments/assets/7db6831d-8172-4ec5-88b6-ebd6593b5346)
+
+- **Shot boundary detection**
+
+  ![20250523-0740-28 7290449 (1)](https://github.com/user-attachments/assets/4f347bc6-8012-4244-8c88-aff62125db51)
 
 # Architecture
 ![ctr model v2 1 (1)](https://github.com/user-attachments/assets/e03b34dc-b3fc-45ca-8047-64a1e9e68746)
