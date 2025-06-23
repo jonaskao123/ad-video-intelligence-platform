@@ -27,12 +27,6 @@
 - v3: for advertising clip (lightweight version of v2)  
   input: clip  
 
-# Google Cloud Storage
-<pre lang="markdown"> <code>gcsfuse --implicit-dirs -o allow_other ad-creative-collection ./ad-creative-collection </code> </pre>
-
-# TensorBoard
-<pre lang="markdown"> <code>tensorboard --logdir=runs/ </code> </pre>
-
 # Reference
   [1] [Montalvo-Lezama, Ricardo, Berenice Montalvo-Lezama, and Gibran Fuentes-Pineda. "Improving transfer learning for movie trailer genre classification using a dual image and video transformer." Information Processing & Management 60.3 (2023): 103343.](https://arxiv.org/pdf/2210.07983)  
   [2] [Zhu, Wentao, et al. "Autoshot: A short video dataset and state-of-the-art shot boundary detection." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2023.](https://arxiv.org/pdf/2304.06116)  
